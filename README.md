@@ -24,5 +24,5 @@ The model is robust to real-world challenges such as occlusion, illumination cha
 - 98.51% accuracy on Windsor dataset
 - Robust performance under synthetic signal disturbances
 
-- 
+
 
